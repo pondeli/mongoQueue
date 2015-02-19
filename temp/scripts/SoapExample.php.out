@@ -1,0 +1,15 @@
+SoapExampleRunnerclass stdClass#3 (1) {
+  public $GetWeatherResult =>
+  string(520) "<?xml version="1.0" encoding="utf-16"?>
+<CurrentWeather>
+  <Location>Berlin-Tegel, Germany (EDDT) 52-34N 013-19E 37M</Location>
+  <Time>Feb 19, 2015 - 09:20 AM EST / 2015.02.19 1420 UTC</Time>
+  <Wind> from the SW (220 degrees) at 10 MPH (9 KT):0</Wind>
+  <Visibility> greater than 7 mile(s):0</Visibility>
+  <Temperature> 46 F (8 C)</Temperature>
+  <DewPoint> 30 F (-1 C)</DewPoint>
+  <RelativeHumidity> 52%</RelativeHumidity>
+  <Pressure> 30.27 in. Hg (1025 hPa)</Pressure>
+  <Status>Success</Status>
+</Current"...
+}
